@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ci-cd-testing/static/css/main.dc4d6ff2.css",
+    "main.js": "/ci-cd-testing/static/js/main.cccd754a.js",
+    "index.html": "/ci-cd-testing/index.html",
+    "main.dc4d6ff2.css.map": "/ci-cd-testing/static/css/main.dc4d6ff2.css.map",
+    "main.cccd754a.js.map": "/ci-cd-testing/static/js/main.cccd754a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.cccd754a.js"
+  ]
+}
